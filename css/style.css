@@ -1,0 +1,53 @@
+
+.whitetext{
+  font-size: 1.5em;
+  line-height: 1.2;
+  font-family: proxima,sans-serif;
+  color: white;
+}
+.test{
+  height: 100vh;
+}
+.cities, .getme, .map{
+  height: 100vh;
+}
+.buttonscities{
+  margin-top: 250%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.iphone, .android, .transparent-icon{
+color: #2e7d32;
+}
+.waves-effect{
+  background-color: #eeeeee;
+}
+.login{
+  color: #ffcb0a;
+  font-family: proxima,sans-serif;
+  text-align: center;
+}
+.waves-effect{
+  border-radius: 4px;
+  margin: 5px;
+}
+.waves-effect:hover{
+  background-color: #ffcb0a;
+}
+
+.mapgoogle{
+  width:600px;
+  height:450px;
+  display: flex;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+.form-container{
+  height: 100px;
+  width: 100px;
+  background-color:#fff;
+  margin-top: 100px;
+
+  }
